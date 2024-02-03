@@ -1,1 +1,1 @@
-# :computer: SpringMVC Section Two - Message
+# :computer: SpringMVC Section - Message
